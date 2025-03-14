@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://google.com)
+  - [osTicket: Prerequisites and Installation](https://github.com/Dre00dev/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://google.com)
   - [osTicket: Ticket Lifecycle Examples](https://google.com)
 - <b>Microsoft Azure</b>

@@ -10,8 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dre00dev/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dre00dev/azure-network-protocols)
 - <b>Microsoft Intune</b>
-- [Upgrading to Windows 11 using Microsoft Intune](https://github.com/Dre00dev/Intune-Upgrade-W11)
-- 
+  - [Upgrading to Windows 11 using Microsoft Intune](https://github.com/Dre00dev/Intune-Upgrade-W11)
+  
 <h2>🤳Connect with me:</h2>
 
 
